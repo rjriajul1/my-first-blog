@@ -45,7 +45,20 @@ a{
 
 }
 
+.flex-container{
+
+    display: flex;
+   margin: 10px;
+   /* padding: 10px; */
+   background-color: red;
+
+}  
+div{
+    margin: 10px;
+    padding: 10px;
+    color: gray;
+    border-radius: 20px;
     
-    
+}
     
     
