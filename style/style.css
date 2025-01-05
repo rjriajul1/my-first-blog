@@ -1,0 +1,51 @@
+*{
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+hr{
+    margin-top: 50px;
+}
+h1{
+    font-weight: bolder;
+    font-family: fantasy;
+    text-shadow: 5px 5px 5px red;
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+.my-image{
+    width: 120px;
+    border: 3px solid black;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 50px;
+
+
+}
+a{
+    text-decoration: none;
+    padding: 15px;
+}
+
+.drop-mune{
+    display: flex;
+    justify-content:flex-end;
+    align-items: flex-end;
+    flex-direction: row;
+    
+}
+.drop-mune>div{
+    width: 70px;
+    background-color:white;
+    font-size: larger;
+    margin: 10px;
+    padding: 5px;
+
+}
+
+    
+    
+    
+    
